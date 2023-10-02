@@ -11,14 +11,14 @@ Computer Vision system that is capable of detecting the emotion from the face in
    <pre> conda create -p ./venv python=3.8 -y </pre>
 3. Activate virtual Environment
    <pre> conda activate ./venv </pre>
-6. Install dependancies
-7. <pre> pip install -r requirements.txt </pre>
-8. Download trained VGG19 Model File
+4. Install dependancies
+   <pre> pip install -r requirements.txt </pre>
+5. Download trained VGG19 Model File
    <pre> Model Download Link: https://drive.google.com/file/d/1gE1lvbFz_gC5L4dcrg93qRur47vzuFy0/view?usp=sharing</pre>
-10. Paste the downloaded model at location app_data/emotion_model/
+6. Paste the downloaded model at location app_data/emotion_model/
     <pre> Model path: app_data\emotion_model\emotion_model_VGG19.hdf5  </pre>
-12. Run the emotion_detector_app script
+7. Run the emotion_detector_app script
     <pre> python emotion_detector_app.py </pre>
-14. Let your Webcam know your Emotions...!
+8. Let your Webcam know your Emotions...!
    
 
