@@ -78,6 +78,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Tensorflow Models
+.hdf5
+.h5
+
 # IPython
 profile_default/
 ipython_config.py
