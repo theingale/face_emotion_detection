@@ -79,8 +79,8 @@ target/
 .ipynb_checkpoints
 
 # Tensorflow Models
-.hdf5
-.h5
+*.hdf5
+*.h5
 
 # IPython
 profile_default/
